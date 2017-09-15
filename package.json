@@ -1,0 +1,19 @@
+{
+  "name": "linear_alg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vector.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "decimal.js": "^7.2.4",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
